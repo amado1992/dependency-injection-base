@@ -12,3 +12,4 @@ D:\DesarrolloSoftware\dependency-injection-base\dependency-injection\dependency-
 D:\DesarrolloSoftware\dependency-injection-base\dependency-injection\dependency-injection\obj\Debug\net8.0\dependency-injection.pdb
 D:\DesarrolloSoftware\dependency-injection-base\dependency-injection\dependency-injection\obj\Debug\net8.0\dependency-injection.genruntimeconfig.cache
 D:\DesarrolloSoftware\dependency-injection-base\dependency-injection\dependency-injection\obj\Debug\net8.0\ref\dependency-injection.dll
+D:\DesarrolloSoftware\dependency-injection-base\dependency-injection\dependency-injection\obj\Debug\net8.0\dependency-injection.sourcelink.json

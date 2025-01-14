@@ -39,8 +39,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T19:26:13.575Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -54,7 +53,7 @@
               "RelativeDocumentMoniker": "dependency-injection\\Player.cs",
               "ToolTip": "D:\\DesarrolloSoftware\\dependency-injection-base\\dependency-injection\\dependency-injection\\Player.cs",
               "RelativeToolTip": "dependency-injection\\Player.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAA2wCMAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T21:07:21.11Z",
               "EditorCaption": ""
@@ -69,8 +68,7 @@
               "RelativeToolTip": "dependency-injection\\Table.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T21:03:25.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T21:03:25.216Z"
             },
             {
               "$type": "Document",
@@ -82,8 +80,7 @@
               "RelativeToolTip": "dependency-injection\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T21:02:27.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T21:02:27.642Z"
             }
           ]
         }
