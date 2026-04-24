@@ -9,9 +9,9 @@ namespace dependency_injection
             IPlayable pc = new PC("Windows");
 
             Player player = new Player(table);
-            //Player player = new Player(pc);
+            // Player player = new Player(pc);
 
-            //Player player = new Player("Player");
+            // Player player = new Player("Player");
 
             Console.WriteLine(player.Play());
             Console.ReadKey();

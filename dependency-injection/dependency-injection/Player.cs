@@ -35,14 +35,14 @@ namespace dependency_injection
 
         public string Play()
         {
-            /// Old solution
+            // Old solution
             /*if (table != null)
                 return table.Play();*/
 
             /*if (pc != null)
                 return pc.Play();*/
 
-            /// New solution
+            // New solution
             if (_playable != null)
                 return _playable.Play();
 
